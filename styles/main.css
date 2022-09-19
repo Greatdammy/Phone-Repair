@@ -6,20 +6,20 @@
 @media (min-width: 1281px) {
   li.nav-item.Check {
     padding-left: 500px;
-}
-.height{
-  height: 58px;
-}
-.colo{
-  font-weight: 700;
-}
-.bot-board{
-  border: 1px solid black;
-  border-radius: 0;
-}
-.shift{
-  padding-left: 77px;
-}
+  }
+  .height {
+    height: 58px;
+  }
+  .colo {
+    font-weight: 700;
+  }
+  .bot-board {
+    border: 1px solid black;
+    border-radius: 0;
+  }
+  .shift {
+    padding-left: 77px;
+  }
   .img-1 {
     width: 100%;
     height: 100%;
@@ -712,7 +712,6 @@
   }
 }
 
-
 /* 
     ##Device = Laptops, Desktops
     ##Screen = B/w 1025px to 1280px
@@ -721,20 +720,20 @@
 @media (min-width: 1025px) and (max-width: 1280px) {
   li.nav-item.Check {
     padding-left: 308px;
-}
-.height{
-  height: 58px;
-}
-.colo{
-  font-weight: 700;
-}
-.bot-board{
-  border: 1px solid black;
-  border-radius: 0;
-}
-.shift{
-  padding-left: 35px;
-}
+  }
+  .height {
+    height: 58px;
+  }
+  .colo {
+    font-weight: 700;
+  }
+  .bot-board {
+    border: 1px solid black;
+    border-radius: 0;
+  }
+  .shift {
+    padding-left: 35px;
+  }
   .img-1 {
     width: 100%;
     height: 100%;
@@ -1477,20 +1476,20 @@
 @media (min-width: 768px) and (max-width: 1024px) {
   li.nav-item.Check {
     padding-left: 560px;
-}
-.height{
-  height: 58px;
-}
-.colo{
-  font-weight: 700;
-}
-.bot-board{
-  border: 1px solid black;
-  border-radius: 0;
-}
-.shift{
-  padding-left: 77px;
-}
+  }
+  .height {
+    height: 58px;
+  }
+  .colo {
+    font-weight: 700;
+  }
+  .bot-board {
+    border: 1px solid black;
+    border-radius: 0;
+  }
+  .shift {
+    padding-left: 77px;
+  }
   .img-1 {
     width: 100%;
     height: 100%;
@@ -2195,22 +2194,16 @@
   */
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  li.nav-item.Check {
-    /* padding-left: 500px; */
-}
-.height{
-  height: 58px;
-}
-.colo{
-  font-weight: 700;
-}
-.bot-board{
-  border: 1px solid black;
-  border-radius: 0;
-}
-.shift{
-  /* padding-left: 77px; */
-}
+  .height {
+    height: 58px;
+  }
+  .colo {
+    font-weight: 700;
+  }
+  .bot-board {
+    border: 1px solid black;
+    border-radius: 0;
+  }
   .cup {
     padding: 0 15px;
     margin: 0 24px;
@@ -2337,7 +2330,6 @@
     padding-bottom: 50px;
     margin-bottom: 0;
     width: 143%;
-
   }
   .sec-2-2 {
     width: 143%;
@@ -2360,9 +2352,8 @@
   .color-it {
     background: #afd3ce;
     padding-top: 32px;
-    
   }
-  .row{
+  .row {
     width: 143%;
   }
   .warran {
@@ -2958,20 +2949,20 @@
   li.nav-item.Check {
     padding-left: 2px;
     /* text-align: left; */
-}
-.height{
-  height: 58px;
-}
-.colo{
-  font-weight: 700;
-}
-.bot-board{
-  border: 1px solid black;
-  border-radius: 0;
-}
-.shift{
-  padding-left: 2px;
-}
+  }
+  .height {
+    height: 58px;
+  }
+  .colo {
+    font-weight: 700;
+  }
+  .bot-board {
+    border: 1px solid black;
+    border-radius: 0;
+  }
+  .shift {
+    padding-left: 2px;
+  }
   .img-1 {
     width: 100%;
     height: 100%;
@@ -3058,15 +3049,15 @@
   }
   .sec-2 {
     text-align: center !important;
-    font-weight: 500;
+    font-weight: 200;
     font-family: "DM Sans", sans-serif;
-    font-size: 50px;
+    font-size: 59px;
     line-height: 1.05;
     letter-spacing: -0.58px;
-    padding-left: 0;
+    padding-left: 60px;
     margin-left: 0;
-    padding-top: 200px;
-    padding-right: 0;
+    padding-top: 450px;
+    padding-right: 60px;
     padding-bottom: 30px;
   }
   .sec-2-2 {
@@ -3074,11 +3065,11 @@
     font-family: "DM Sans", sans-serif;
     font-size: 20px;
     line-height: 1.05;
-    letter-spacing: -0.58px;
-    padding-left: 0;
+    letter-spacing: 0.42px;
     margin: 0;
     font-weight: 300;
-    padding: 0;
+    padding-left: 60px;
+    padding-right: 60px;
   }
   .item-1 {
     margin-bottom: 27px;
@@ -3182,7 +3173,7 @@
     color: #fff;
     border: 1px solid #000000;
     border-radius: 50%;
-    margin-left: 180px;
+    margin-left: 275px;
     /* margin-bottom: 20px; */
   }
   .sec-3 {
@@ -3721,20 +3712,20 @@
 @media (min-width: 320px) and (max-width: 480px) {
   li.nav-item.Check {
     padding-left: 2px;
-}
-.height{
-  height: 58px;
-}
-.colo{
-  font-weight: 700;
-}
-.bot-board{
-  border: 1px solid black;
-  border-radius: 0;
-}
-.shift{
-  padding-left: 2px;
-}
+  }
+  .height {
+    height: 58px;
+  }
+  .colo {
+    font-weight: 700;
+  }
+  .bot-board {
+    border: 1px solid black;
+    border-radius: 0;
+  }
+  .shift {
+    padding-left: 2px;
+  }
   .container-fluid {
     width: 100%;
     padding-left: 0;
